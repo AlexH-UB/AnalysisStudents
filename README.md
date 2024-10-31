@@ -9,8 +9,8 @@
 
 * If the installation is not working or you have any other problems or suggestions - please email us
 
-    1. Dr. Thomas Ebert (Ebert87@uni-bonn.de)
-    2. Alexander Hoch (Ebert87@uni-bonn.de)
+    1. Dr. Thomas Ebert (te@uni-bonn.de)
+    2. Alexander Hoch (te@uni-bonn.de)
 
 
 ### Overview
