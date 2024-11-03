@@ -1,4 +1,4 @@
-## JSB Lab Practical - Data evaluation
+## JSB Lab Practical - Data evaluation - Experiment 1
 
 [**Overview**](./README.md) - [**Experiment 1**](./exp1.md) - [**Experiment 2**](./exp2.md) - [**Experiment 3**](./exp3.md) - [**Experiment 4**](./exp4.md)
 
@@ -9,11 +9,11 @@
 
 * If the installation is not working or you have any other problems or suggestions - please email us
 
-    1. Dr. Thomas Ebert (Ebert87@uni-bonn.de)
-    2. Alexander Hoch (Ebert87@uni-bonn.de)
+    1. Dr. Thomas Ebert (te@uni-bonn.de)
+    2. Alexander Hoch (te@uni-bonn.de)
 
-#### **Experiment 1: Cloning and Sequencing of CRISPR Expression Plasmids**
-In this initial experiment, we generated CRISPR constructs by cloning synthetic DNA oligonucleotides into a U6 expression vector using Golden Gate cloning. Using [Ape](https://jorgensen.biology.utah.edu/wayned/ape/), we will review plasmid sequences to confirm the correct integration of gRNA sequences into the vectors, which will ensure that the gRNAs are ready for downstream applications in gene editing. Tn5 sequencing files.
+##### **Experiment 1: Cloning and Sequencing of CRISPR Expression Plasmids**
+In this initial experiment, we generated CRISPR constructs by cloning synthetic DNA oligonucleotides into a U6 expression vector using Golden Gate cloning. With [Ape](https://jorgensen.biology.utah.edu/wayned/ape/), we will generate the plasmid sequences to confirm the correct integration of gRNA sequences into the vectors, which will ensure that the gRNAs are ready for downstream applications in gene editing. For this application, look up your Tn5 sequencing barcodes you noted in the script and retrieve the corresponding sequencing files from the sciebo folder.
 
 ---
 
