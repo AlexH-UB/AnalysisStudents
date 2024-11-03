@@ -20,22 +20,23 @@ On the final day of the schedule, the focus shifts to the analysis of data gathe
 ---
 
 ##### **Experiment 1: Cloning and Sequencing of CRISPR Expression Plasmids**
-In this initial experiment, we generated CRISPR constructs by cloning synthetic DNA oligonucleotides into a U6 expression vector using Golden Gate cloning. Using [Ape](https://jorgensen.biology.utah.edu/wayned/ape/), we will review plasmid sequences to confirm the correct integration of gRNA sequences into the vectors, which will ensure that the gRNAs are ready for downstream applications in gene editing. Tn5 sequencing files
+In this initial experiment, we generated CRISPR constructs by cloning synthetic DNA oligonucleotides into a U6 expression vector using Golden Gate cloning. With [Ape](https://jorgensen.biology.utah.edu/wayned/ape/), we will generate the plasmid sequences to confirm the correct integration of gRNA sequences into the vectors, which will ensure that the gRNAs are ready for downstream applications in gene editing. For this application, look up your Tn5 sequencing barcodes you noted in the script and retrieve the corresponding sequencing files from the sciebo folder.
 
 ---
 
 ##### **Experiment 2: Gene Knockout in Human Cells and Validation by Deep Sequencing**
-In the second experiment, we targeted an unknown gene for knockout in HEK 293T cells, using a combination of Cas9 and gRNA plasmids. After lysing the cells and amplifying the target regions by PCR, we performed a Deep Sequencing run. Today we will quantify the editing efficiency using [*Outknocker*](http://www.outknocker.org/). Dual BC files
+In the second experiment, we targeted an unknown gene for knockout in HEK 293T cells, using a combination of Cas9 and gRNA plasmids. After lysing the cells and amplifying the target regions by PCR, we performed a Deep Sequencing run. Today we will quantify the editing efficiency using [*Outknocker*](http://www.outknocker.org/). For this experiment look up your dual indexing barcodes you noted in the script for this experiment and retrieve the corresponding sequencing files from the sciebo folder.
+
 
 ---
 
 ##### **Experiment 3: Fluorescent Tagging of Endogenous Proteins and Verification by Microscopy**
-In the third experiment, we used [*CRISPaint*](https://www.nature.com/articles/ncomms12338) (CRISPR-assisted insertion tagging) to insert a green fluorescent protein (GFP) tag into the human genome, enabling visualization of endogenous proteins within live cells. CRISPaint combines CRISPR-Cas9 with a donor DNA template to introduce specific tags at precise genomic locations, allowing for functional tagging without disrupting natural protein expression. This method allowed us to integrate GFP into our target gene, so we could verify and observe protein localization and dynamics in real-time under a fluorescence microscope, providing insights into the tagged protein’s cellular role. Today we will validate if the technique worked correctly and will create an image collection.
+In the third experiment, we used [*CRISPaint*](https://www.nature.com/articles/ncomms12338) (CRISPR-assisted insertion tagging) to insert a green fluorescent protein (GFP) tag into the human genome, enabling visualization of endogenous proteins within live cells. CRISPaint combines CRISPR-Cas9 with a donor DNA template to introduce specific tags at precise genomic locations, allowing for functional tagging without disrupting natural protein expression. This method allowed us to integrate GFP into our target gene, so we could verify and observe protein localization and dynamics in real-time under a fluorescence microscope, providing insights into the tagged protein’s cellular role. Today we will validate if the technique worked correctly and will create iamge collages. Please download your groups imaging files for all conditions from the sciebo folder. 
 
 ---
 
 ##### **Experiment 4: Observing Tagged Proteins in Live Cells Using Spinning-Disc Laser Microscopy**
-In the final experiment, we used pre-made tagged cell lines to observe protein dynamics in live cells. Our goal is to monitor protein localization over time, particularly during mitosis. Today, we will evaluate time-lapse microscopy images, focusing on the spatial distribution and movement of tagged proteins within the cells. Using [Fiji](https://fiji.sc/), we will analyze cell division stages and protein localization changes, providing insights into protein function and behavior during mitosis.
+In the final experiment, we used pre-made tagged cell lines to observe protein dynamics in live cells. Our goal is to monitor protein localization over time, particularly during mitosis. Today, we will evaluate time-lapse microscopy images, focusing on the spatial distribution and movement of tagged proteins within the cells. Using [Fiji](https://fiji.sc/), we will analyze cell division stages and protein localization changes, providing insights into protein function and behavior during mitosis. For this experiment we took an imaging time course, including Z-axis images. Please download the corresponding time course images from your group from the sciebo folder. 
 
 ---
 
