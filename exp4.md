@@ -54,3 +54,5 @@ Students should aim to identify dividing cells and observe how tagged proteins c
     * Show consistent fields of view across time points.  
     * Use identical settings for brightness, contrast, and colors.  
     * Include a scale bar.
+ 
+---
